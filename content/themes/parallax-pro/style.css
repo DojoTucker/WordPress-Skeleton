@@ -2082,6 +2082,7 @@ Media Queries
 
 
 .gform_anchor{
+	height: 100px;
 	margin-top: 100px;
 	display: block;
 }
