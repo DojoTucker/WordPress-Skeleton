@@ -1201,7 +1201,12 @@ Content Area
 }
 
 .home-section-3{
-	background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5));
+	background:
+		linear-gradient(
+			rgba(0, 0, 0, 0.8),
+			rgba(0, 0, 0, 0.8)
+		),
+		url(http://dojotucker.com/content/uploads/2014/11/giphy.gif);
 }
 
 /* Pricing Table
