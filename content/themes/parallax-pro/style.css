@@ -1833,7 +1833,7 @@ Media Queries
 	.home-section-1,
 	.home-section-3,
 	.home-section-5 {
-		background-attachment: scroll;
+		/*background-attachment: scroll;*/
 		background-position: top;
 		-webkit-background-size: auto;
 		-moz-background-size:    auto;

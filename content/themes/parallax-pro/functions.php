@@ -13,7 +13,7 @@ add_action( 'customize_register', 'parallax_customizer' );
 function parallax_customizer(){
 
 	require_once( get_stylesheet_directory() . '/lib/customize.php' );
-	
+
 }
 
 //* Include Section Image CSS
@@ -148,3 +148,4 @@ genesis_register_sidebar( array(
 	'name'        => __( 'Home Section 5', 'parallax' ),
 	'description' => __( 'This is the home section 5 section.', 'parallax' ),
 ) );
+
