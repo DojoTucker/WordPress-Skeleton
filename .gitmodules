@@ -7,3 +7,6 @@
 [submodule "content/themes/themefoundry-make"]
 	path = content/themes/themefoundry-make
 	url = git@github.com:thethemefoundry/make.git
+[submodule "content/plugins/getty-images"]
+	path = content/plugins/getty-images
+	url = git@github.com:wp-plugins/getty-images.git
