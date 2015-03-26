@@ -4,3 +4,6 @@
 [submodule "content/plugins/swifttype-search"]
 	path = content/plugins/swifttype-search
 	url = https://github.com/wp-plugins/swiftype-search.git
+[submodule "content/themes/themefoundry-make"]
+	path = content/themes/themefoundry-make
+	url = git@github.com:thethemefoundry/make.git
